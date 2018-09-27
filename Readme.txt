@@ -5,3 +5,4 @@ git haishi ?
 
 jame --> jame1
 
+远程操作实例
